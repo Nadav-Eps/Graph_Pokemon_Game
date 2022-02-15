@@ -93,7 +93,7 @@ We are able to make these lists using [BFS](https://en.wikipedia.org/wiki/Breadt
 
 # About:
 This project is part of oop course of Ariel university and made for study purposes.  
-This project was made by Or Trabelsi and Nadav Epstein, for more information please contact me, email - ortrsa@gmail.com.
+This project was made by Or Trabelsi and Nadav Epstein, for more information please contact me, email - nadavepstein1@gmail.com.
 
 
 
